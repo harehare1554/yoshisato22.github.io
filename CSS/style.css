@@ -1,0 +1,22 @@
+@import url(sanitize.css);
+h1 {
+    font-family: 'M PLUS Rounded 1c', sans-serif;
+    font-size: 40px;
+    margin: 0px;
+    text-align: center;
+}
+a {
+    font-family: 'Itim', cursive;
+    font-size: 20px;
+}
+.content {
+    background-color: #fff;
+    width: 600px;
+    margin: 10px auto;
+    border: 1px solid #d1d1d1;
+    padding: 30px;
+    height: 700px;
+}
+body {
+    background-color: #fafafa;
+}
