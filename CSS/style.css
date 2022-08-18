@@ -1,0 +1,46 @@
+@import url(sanitize.css);
+h1 {
+    font-family: 'M PLUS Rounded 1c', sans-serif;
+    font-size: 40px;
+    margin: 0px;
+    text-align: center;
+}
+p {
+    font-family: 'Itim', cursive;
+    font-size: 20px;
+}
+.content {
+    background-color: #fff;
+    width: 600px;
+    margin: 10px auto;
+    border: 1px solid #d1d1d1;
+    padding: 30px;
+}
+body {
+    background-color: #fafafa;
+}
+.ja {
+    font-size: 16px;
+    font-family: 'M PLUS Rounded 1c', sans-serif;
+}
+.jaa {
+    font-size: 20px;
+    font-family: 'M PLUS Rounded 1c', sans-serif;
+}
+.h {
+    text-align: center;
+    font-size: 16px;
+    font-family: 'M PLUS Rounded 1c', sans-serif;
+}
+h2 {
+    font-size: 26px;
+    font-family: 'M PLUS Rounded 1c', sans-serif;
+}
+h5 {
+    font-size: 20px;
+    font-family: 'M PLUS Rounded 1c', sans-serif;
+}
+.footer p {
+    font-family: 'Itim', cursive;
+    font-size: 10px;
+}
